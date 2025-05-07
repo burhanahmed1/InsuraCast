@@ -1,4 +1,4 @@
-# InsuraCast: Multivariate Regression Modeling of Insurance Charges Based on Demographic and Lifestyle Factors
+# InsuraCast: Demographic–Lifestyle Regression for Insurance Premium Prediction
 
 ## Introduction
 
