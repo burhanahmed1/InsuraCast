@@ -1,4 +1,4 @@
-# Insurance Cost Analysis
+# InsuraCast: Multivariate Regression Modeling of Insurance Charges Based on Demographic and Lifestyle Factors
 
 ## Introduction
 
